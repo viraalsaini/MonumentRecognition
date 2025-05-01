@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lenscape</string>
+    <string name="achievement_icon">Achievement Icon</string>
+    <string name="achievement_status">Achievement Status</string>
+    <string name="achievement_progress_format">%d/%d</string>
+    <string name="achievement_completed">Completed</string>
+    <string name="achievement_in_progress">In Progress</string>
+    <string name="achievement_locked">Locked</string>
+</resources>

@@ -1,0 +1,225 @@
+{
+  "monuments": [
+    {
+      "id": "Agra Fort",
+      "name": "Agra Fort",
+      "location": "Agra, India",
+      "coordinates": {
+        "lat": 27.1797,
+        "lon": 78.0215
+      },
+      "description": "The Agra Fort is a historical Mughal fort in the city of Agra, also known as Agra's Red Fort. Mughal emperor Humayun was crowned at this fort in 1530. It was later renovated by the Mughal emperor Akbar from 1565 and the present-day structure was completed in 1573.",
+      "year": "1565–1573",
+      "architect": "Emperor Akbar",
+      "wiki": "https://en.wikipedia.org/wiki/Agra_Fort"
+    },
+    {
+      "id": "Agrasen Ki Baoli",
+      "name": "Agrasen Ki Baoli",
+      "location": "Delhi, India",
+      "coordinates": {
+        "lat": 28.6266,
+        "lon": 77.2259
+      },
+      "description": "A 60-meter long, 15-meter wide historical stepwell in the heart of Delhi.",
+      "year": "14th century",
+      "architect": "Attributed to Agrasen",
+      "wiki": "https://en.wikipedia.org/wiki/Agrasen_Ki_Baoli"
+    },
+    {
+      "id": "Gurudwara Bangla Sahib",
+      "name": "Gurudwara Bangla Sahib",
+      "location": "Delhi, India",
+      "coordinates": {
+        "lat": 28.6264,
+        "lon": 77.2089
+      },
+      "description": "A prominent Sikh gurdwara associated with Guru Har Krishan, known for its sarovar and langar.",
+      "year": "18th century",
+      "architect": "Raja Jai Singh",
+      "wiki": "https://en.wikipedia.org/wiki/Gurdwara_Bangla_Sahib"
+    },
+    {
+      "id": "Humayu Tomb",
+      "name": "Humayun's Tomb",
+      "location": "Delhi, India",
+      "coordinates": {
+        "lat": 28.5933,
+        "lon": 77.2507
+      },
+      "description": "A UNESCO World Heritage Site and one of the earliest examples of Mughal garden-tomb architecture.",
+      "year": "1565–1572",
+      "architect": "Mirak Mirza Ghiyas",
+      "wiki": "https://en.wikipedia.org/wiki/Humayun%27s_Tomb"
+    },
+    {
+      "id": "India gate",
+      "name": "India Gate",
+      "location": "Delhi, India",
+      "coordinates": {
+        "lat": 28.6129,
+        "lon": 77.2295
+      },
+      "description": "A war memorial for Indian soldiers who died in World War I and the Afghan Wars.",
+      "year": "1921–1931",
+      "architect": "Sir Edwin Lutyens",
+      "wiki": "https://en.wikipedia.org/wiki/India_Gate"
+    },
+    {
+      "id": "Isa Khan Niyazi-s tomb",
+      "name": "Isa Khan Niyazi's Tomb",
+      "location": "Delhi, India",
+      "coordinates": {
+        "lat": 28.5919,
+        "lon": 77.2504
+      },
+      "description": "An octagonal tomb of Afghan noble Isa Khan Niyazi, built during his lifetime.",
+      "year": "1547–1548",
+      "architect": "Unknown",
+      "wiki": "https://en.wikipedia.org/wiki/Tomb_of_Isa_Khan"
+    },
+    {
+      "id": "Itmad-Ud-Daula-s Tomb",
+      "name": "Itmad-Ud-Daula's Tomb",
+      "location": "Agra, India",
+      "coordinates": {
+        "lat": 27.1928,
+        "lon": 78.0308
+      },
+      "description": "Often called the Baby Taj, this is the tomb of Mirza Ghiyas Beg, built in white marble.",
+      "year": "1622–1628",
+      "architect": "Nur Jahan",
+      "wiki": "https://en.wikipedia.org/wiki/Tomb_of_I%27tim%C4%81d-ud-Daulah"
+    },
+    {
+      "id": "Jama Mashjid",
+      "name": "Jama Masjid",
+      "location": "Delhi, India",
+      "coordinates": {
+        "lat": 28.6507,
+        "lon": 77.2334
+      },
+      "description": "One of the largest mosques in India, built by Shah Jahan with red sandstone and white marble.",
+      "year": "1650–1656",
+      "architect": "Emperor Shah Jahan",
+      "wiki": "https://en.wikipedia.org/wiki/Jama_Mosque,_Delhi"
+    },
+    {
+      "id": "Jantar Mantar",
+      "name": "Jantar Mantar",
+      "location": "Delhi, India",
+      "coordinates": {
+        "lat": 28.6271,
+        "lon": 77.2165
+      },
+      "description": "An astronomical observatory built by Maharaja Jai Singh II to measure time and celestial movements.",
+      "year": "1724",
+      "architect": "Maharaja Jai Singh II",
+      "wiki": "https://en.wikipedia.org/wiki/Jantar_Mantar,_New_Delhi"
+    },
+    {
+      "id": "Lotus Temple",
+      "name": "Lotus Temple",
+      "location": "Delhi, India",
+      "coordinates": {
+        "lat": 28.5535,
+        "lon": 77.2588
+      },
+      "description": "A Baháʼí House of Worship known for its lotus-like shape and serene ambiance.",
+      "year": "1986",
+      "architect": "Fariborz Sahba",
+      "wiki": "https://en.wikipedia.org/wiki/Lotus_Temple"
+    },
+    {
+      "id": "Mutiny Memorial",
+      "name": "Mutiny Memorial (Ajitgarh)",
+      "location": "Delhi, India",
+      "coordinates": {
+        "lat": 28.6812,
+        "lon": 77.2248
+      },
+      "description": "Built to commemorate the British soldiers who died during the 1857 uprising.",
+      "year": "1863",
+      "architect": "Unknown",
+      "wiki": "https://en.wikipedia.org/wiki/Mutiny_Memorial"
+    },
+    {
+      "id": "Qila-i-Kuhna mosque",
+      "name": "Qila-i-Kuhna Mosque",
+      "location": "Delhi, India",
+      "coordinates": {
+        "lat": 28.6087,
+        "lon": 77.2442
+      },
+      "description": "A pre-Mughal mosque inside Purana Qila, combining Lodi and Mughal styles.",
+      "year": "1541",
+      "architect": "Sher Shah Suri",
+      "wiki": "https://en.wikipedia.org/wiki/Qila-i-Kuhna_Mosque"
+    },
+    {
+      "id": "Qutub Minar",
+      "name": "Qutub Minar",
+      "location": "Delhi, India",
+      "coordinates": {
+        "lat": 28.5245,
+        "lon": 77.1855
+      },
+      "description": "The tallest brick minaret in the world, built to celebrate Muslim dominance in Delhi.",
+      "year": "1192–1368",
+      "architect": "Qutb al-Din Aibak and successors",
+      "wiki": "https://en.wikipedia.org/wiki/Qutb_Minar"
+    },
+    {
+      "id": "Quwwat ul-Islam Mosque",
+      "name": "Quwwat ul-Islam Mosque",
+      "location": "Delhi, India",
+      "coordinates": {
+        "lat": 28.5247,
+        "lon": 77.1856
+      },
+      "description": "The first mosque built in Delhi after the Islamic conquest, located next to Qutub Minar.",
+      "year": "1193",
+      "architect": "Qutb al-Din Aibak",
+      "wiki": "https://en.wikipedia.org/wiki/Quwwat-ul-Islam_Mosque"
+    },
+    {
+      "id": "Rashtrapati Bhawan",
+      "name": "Rashtrapati Bhavan",
+      "location": "Delhi, India",
+      "coordinates": {
+        "lat": 28.6144,
+        "lon": 77.1996
+      },
+      "description": "The official residence of the President of India, formerly the Viceroy's House during British rule.",
+      "year": "1912–1929",
+      "architect": "Sir Edwin Lutyens",
+      "wiki": "https://en.wikipedia.org/wiki/Rashtrapati_Bhavan"
+    },
+    {
+      "id": "Red Fort",
+      "name": "Red Fort",
+      "location": "Delhi, India",
+      "coordinates": {
+        "lat": 28.6562,
+        "lon": 77.2410
+      },
+      "description": "A 17th-century Mughal fortress of red sandstone, used as a royal residence and military base.",
+      "year": "1639–1648",
+      "architect": "Mughal Emperor Shah Jahan",
+      "wiki": "https://en.wikipedia.org/wiki/Red_Fort"
+    },
+    {
+      "id": "Taj Mahal",
+      "name": "Taj Mahal",
+      "location": "Agra, India",
+      "coordinates": {
+        "lat": 27.1751,
+        "lon": 78.0421
+      },
+      "description": "The Taj Mahal is an ivory-white marble mausoleum on the right bank of the river Yamuna in Agra, India. It was commissioned in 1632 by the Mughal emperor Shah Jahan to house the tomb of his favorite wife, Mumtaz Mahal.",
+      "year": "1632–1653",
+      "architect": "Ustad Ahmad Lahauri",
+      "wiki": "https://en.wikipedia.org/wiki/Taj_Mahal"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "restaurants": {
+    "Agra Fort": "https://www.google.com/maps/search/restaurants/@27.179874014411805,78.02003409921561,16z",
+    "Agrasen Ki Baoli": "https://www.google.com/maps/search/restaurants/@28.62607219824778,77.22503171849118,16z",
+    "Gurudwara Bangla Sahib": "https://www.google.com/maps/search/restaurants/@28.62592015648062,77.20885064537235,16z",
+    "Humayu Tomb": "https://www.google.com/maps/search/restaurants/@28.593293941424996,77.25047621086863,16z",
+    "India Gate": "https://www.google.com/maps/search/restaurants/@28.61293178071349,77.22970898330087,16z",
+    "Isa Khan Niyazi-s tomb": "https://www.google.com/maps/search/restaurants/@28.59223603697676,77.2461885853864,16z",
+    "Itmad-Ud-Daulah-s Tomb": "https://www.google.com/maps/search/restaurants/@27.192869113646317,78.03092292517498,16z",
+    "Jama Mashjid": "https://www.google.com/maps/search/restaurants/@28.650603854125993,77.23333480664046,16z",
+    "Jantar Mantar": "https://www.google.com/maps/search/restaurants/@28.626969919860585,77.21658377965156,16z",
+    "Lotus Temple": "https://www.google.com/maps/search/restaurants/@28.55327522577193,77.25854744527092,16z",
+    "Mutiny Memorial": "https://www.google.com/maps/search/restaurants/@28.671350115653077,77.21067616431202,16z",
+    "Qila-i-Kuhna Mosque": "https://www.google.com/maps/search/restaurants/@28.609990497860178,77.24496668333423,16z",
+    "Qutub Minar": "https://www.google.com/maps/search/restaurants/@28.52486220840065,77.18527093179854,16z",
+    "Quwwat ul-Islam Mosque": "https://www.google.com/maps/search/restaurants/@28.52470149249085,77.18482054912124,16z",
+    "Rashtrapati Bhavan": "https://www.google.com/maps/search/restaurants/@28.614291264975186,77.1993656219803,16z",
+    "Red Fort": "https://www.google.com/maps/search/restaurants/@28.65569250582416,77.23820177313505,16z",
+    "Taj Mahal": "https://www.google.com/maps/search/restaurants/@27.174966538330107,78.04216253014684,16z"
+  },
+  "cafes_fastfood": {
+    "Agra Fort": "https://www.google.com/maps/search/cafes+fast+food/@27.179874014411805,78.02003409921561,16z",
+    "Agrasen Ki Baoli": "https://www.google.com/maps/search/cafes+fast+food/@28.62607219824778,77.22503171849118,16z",
+    "Gurudwara Bangla Sahib": "https://www.google.com/maps/search/cafes+fast+food/@28.62592015648062,77.20885064537235,16z",
+    "Humayu Tomb": "https://www.google.com/maps/search/cafes+fast+food/@28.593293941424996,77.25047621086863,16z",
+    "India Gate": "https://www.google.com/maps/search/cafes+fast+food/@28.61293178071349,77.22970898330087,16z",
+    "Isa Khan Niyazi-s tomb": "https://www.google.com/maps/search/cafes+fast+food/@28.59223603697676,77.2461885853864,16z",
+    "Itmad-Ud-Daulah-s Tomb": "https://www.google.com/maps/search/cafes+fast+food/@27.192869113646317,78.03092292517498,16z",
+    "Jama Mashjid": "https://www.google.com/maps/search/cafes+fast+food/@28.650603854125993,77.23333480664046,16z",
+    "Jantar Mantar": "https://www.google.com/maps/search/cafes+fast+food/@28.626969919860585,77.21658377965156,16z",
+    "Lotus Temple": "https://www.google.com/maps/search/cafes+fast+food/@28.55327522577193,77.25854744527092,16z",
+    "Mutiny Memorial": "https://www.google.com/maps/search/cafes+fast+food/@28.671350115653077,77.21067616431202,16z",
+    "Qila-i-Kuhna Mosque": "https://www.google.com/maps/search/cafes+fast+food/@28.609990497860178,77.24496668333423,16z",
+    "Qutub Minar": "https://www.google.com/maps/search/cafes+fast+food/@28.52486220840065,77.18527093179854,16z",
+    "Quwwat ul-Islam Mosque": "https://www.google.com/maps/search/cafes+fast+food/@28.52470149249085,77.18482054912124,16z",
+    "Rashtrapati Bhavan": "https://www.google.com/maps/search/cafes+fast+food/@28.614291264975186,77.1993656219803,16z",
+    "Red Fort": "https://www.google.com/maps/search/cafes+fast+food/@28.65569250582416,77.23820177313505,16z",
+    "Taj Mahal": "https://www.google.com/maps/search/cafes+fast+food/@27.174966538330107,78.04216253014684,16z"
+  }
+}
