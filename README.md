@@ -1,2 +1,2 @@
 # MonumentRecognition
-AI model for recognizing monuments using MobileResNetV2.
+AI model for recognizing monuments using MobileNetV2.
